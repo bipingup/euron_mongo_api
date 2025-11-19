@@ -1,0 +1,8 @@
+uri = "mongodb+srv://Bipin:Bipin123@cluster0.xtqiye4.mongodb.net/?appName=Cluster0"
+
+python -m pip install "pymongo[srv]"
+
+user Name = Bipin
+Pass = Bipin1234
+
+for actvate =.\myenv\Scripts\activate
